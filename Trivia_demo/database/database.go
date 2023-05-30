@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/mikeyg42/Hex_game/Trivia_demo/models"
+	"github.com/mikeyg42/Hex_game/Trivia demo/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
