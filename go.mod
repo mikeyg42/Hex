@@ -1,4 +1,4 @@
-module github.com/mikeyg42/Hex_game
+module github.com/mikeyg42/Hex_demo
 
 go 1.19
 
