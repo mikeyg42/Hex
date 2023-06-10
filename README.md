@@ -2,6 +2,8 @@
 
 HALF FINISHED PROJECT
 
-This is going to eventually be a web app that will allow to players to initiate a game of Hex, play each other, and then have the results of that game influence their ranking. 
+This will eventually be a web app for people to play the board game Hex against their friends (and one day ranomd players online). Game logic will support playing the game on a variety of sized game board, and if I have the time I'll incorporate a ranking system to facilitate online random match. 
 
-Currently in the process of incorporating JWT middleware. Then I will need to introduce game mechanics and the ranking system based on winners and losers
+Using Go as much as possible with Go fiber and gorm, PostgreSQL, gorilla/websockets,ect. 
+
+
